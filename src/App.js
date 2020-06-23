@@ -12,15 +12,15 @@ function App() {
                         Welcome To YafaTek
                     </h1>
                     <p className="subtitle">
-                        The WebSite is under Maintenance
+                        We're Almost There
                     </p>
-                </div>
-                <div className="container">
-                    <figure className="image maintenance-img is-128x128">
-                        <img src={maintenance} alt="Maintenance image"/>
+                    <p className="subtitle is-6">
+                        Can't Wait to See you Soon :)
+                    </p>
+                    <figure className="image is-16by9">
+                        <img src={maintenance} alt="image"/>
                     </figure>
                 </div>
-
             </div>
         </div>
     );
